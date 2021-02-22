@@ -1,0 +1,1 @@
+var linkedList = new LinkedList();
